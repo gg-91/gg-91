@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I’m interested in exploring data & training machines
+- 👀 I’m interested in exploring data & machines
 - 🌱 I’m currently doing data analytics & machine learning projects
 - 📫 Reach me at linkedin
 
