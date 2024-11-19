@@ -1,4 +1,4 @@
-# Hi there, I'm Gaurav! 👋
+# Hi, I'm Gaurav! 👋
 
 Welcome to my GitHub profile! I'm passionate about exploring data, uncovering insights, and discovering the story behind rows & columns. As an **ML enthusiast**, I'm constantly learning and building projects that reflect my curiosity in this exciting field.  
 
