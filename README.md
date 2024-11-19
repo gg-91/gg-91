@@ -16,10 +16,6 @@ I'm currently transitioning into a **data-centric role** to combine my analytica
 📫 **Let's connect!**  
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gauravgrewal/) to chat about data, machine learning, or opportunities to collaborate.
 
----
-
-🎯 **Why I Love Data:**  
-To me, working with data is like solving a great puzzle—each piece reveals part of the bigger picture. I absolutely thrive on creating order from chaos and turning raw data into impactful solutions.  
 
 Thanks for stopping by! 🙂🚀  
 
