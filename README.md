@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav! 👋
 
-Welcome to my GitHub profile! I'm passionate about exploring data, uncovering insights, and discovering the story behind rows & columns. As an **ML enthusiast**, I'm constantly learning and building projects that reflect my curiosity in this exciting field.  
+Welcome to my GitHub profile! I'm passionate about exploring data, uncovering insights, and discovering the story behind rows & columns. As an **Data enthusiast**, I'm constantly learning and building projects that reflect my curiosity in this exciting field.  
 
 I'm currently transitioning into a **data-centric role** to combine my analytical skills with my love for technology, aiming to create impactful solutions.
 
@@ -14,7 +14,7 @@ I'm currently transitioning into a **data-centric role** to combine my analytica
 ---
 
 📫 **Let's connect!**  
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gauravgrewal/) to chat about data, machine learning, or opportunities to collaborate.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gauravgrewal/)
 
 
 Thanks for stopping by! 🙂🚀  
