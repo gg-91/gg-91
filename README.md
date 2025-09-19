@@ -16,6 +16,7 @@ I'm currently transitioning into a **data-centric role** to combine my analytica
 📫 **Let's connect!**  
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gauravgrewal/)
 
+Some visualizations created can be found on [Tableau](https://public.tableau.com/app/profile/gaurav.grewal8027/vizzes)
 
 Thanks for stopping by! 🙂🚀  
 
